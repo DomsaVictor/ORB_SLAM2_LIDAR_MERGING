@@ -6,11 +6,15 @@ Tutorial:
 
 Install:
 
+
 create a new catkin workspace
+
+copy the files in the 'src' folder
 
 build the code (catkin_make OR catkin build)
 
 Run:
+
 
 start the LiDAR node (you should see "/base_scan" in rostopic list)
 
